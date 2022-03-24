@@ -1,0 +1,16 @@
+.home{
+    flex: 5;
+    display:flex;
+    flex-direction: column;
+    
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+}
+.contains{
+    display:flex;
+    flex-direction: column;
+    padding-left: 260px;
+}
